@@ -1,1 +1,15 @@
-
+{
+  "updated": "2026-11-03T21:15:00Z",
+  "timeframe": "daily",
+  "sectors": [
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "current": {"rs_ratio": 101.8, "rs_momentum": 102.3},
+      "tail": [
+        {"date": "2026-10-15", "rs_ratio": 100.2, "rs_momentum": 99.1},
+        ...
+      ]
+    }
+  ]
+}
