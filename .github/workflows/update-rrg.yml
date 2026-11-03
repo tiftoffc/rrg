@@ -26,10 +26,21 @@ jobs:
       - name: Run RRG updater
         run: python scripts/update_rrg.py
 
+      - name: Verify files
+        run: |
+          echo "Dateien nach dem Skript:"
+          ls -la public/
+          echo "---"
+          wc -l public/rrg-weekly.json || echo "rrg-weekly.json fehlt"
+
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add public/rrg-daily.json public/rrg-weekly.json public/last_update.json
-          git diff --staged --quiet || git commit -m "chore: update RRG data"
-          git push
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen"
+          else
+            git commit -m "chore: update RRG data"
+            git push
+          fi
