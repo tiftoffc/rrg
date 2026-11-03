@@ -1,1 +1,20 @@
+name: Update RRG Data
+on:
+  schedule:
+    - cron: '15 21 * * 1-5'   # Mo–Fr 21:15 UTC (nach US-Close)
+  workflow_dispatch:          # manuell auslösbar
 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install yfinance pandas
+      - run: python scripts/update_rrg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update RRG data"
+          file_pattern: public/rrg-data.json
