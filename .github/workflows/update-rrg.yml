@@ -26,21 +26,10 @@ jobs:
       - name: Run RRG updater
         run: python scripts/update_rrg.py
 
-      - name: Show written files
-        run: |
-          echo "=== Inhalt von public/ ==="
-          ls -la public/
-          echo "=== Existiert rrg-weekly.json? ==="
-          ls -la public/rrg-weekly.json || echo "Datei nicht gefunden"
-          echo "=== Erste Zeilen ==="
-          head -n 20 public/rrg-weekly.json || true
-
       - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update RRG data"
-          file_pattern: |
-            public/rrg-daily.json
-            public/rrg-weekly.json
-            public/last_update.json
-            public/rrg-data.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/rrg-daily.json public/rrg-weekly.json public/last_update.json
+          git diff --staged --quiet || git commit -m "chore: update RRG data"
+          git push
