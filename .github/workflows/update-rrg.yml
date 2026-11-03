@@ -4,7 +4,7 @@ on:
   schedule:
     # Mo–Fr um 21:30 UTC (nach US-Börsenschluss)
     - cron: '30 21 * * 1-5'
-  workflow_dispatch:   # manuell auslösbar
+  workflow_dispatch:
 
 jobs:
   update:
