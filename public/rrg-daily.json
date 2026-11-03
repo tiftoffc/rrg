@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 12:27 UTC",
+  "updated": "2026-11-03 12:38 UTC",
   "timeframe": "daily",
   "sectors": [
     {
@@ -349,6 +349,76 @@
           "date": "2026-11-02",
           "rs_ratio": 102.87,
           "rs_momentum": 100.36
+        }
+      ]
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "current": {
+        "rs_ratio": 98.9,
+        "rs_momentum": 100.64
+      },
+      "tail": [
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 100.4,
+          "rs_momentum": 98.61
+        },
+        {
+          "date": "2026-10-19",
+          "rs_ratio": 99.68,
+          "rs_momentum": 99.05
+        },
+        {
+          "date": "2026-10-20",
+          "rs_ratio": 99.43,
+          "rs_momentum": 99.65
+        },
+        {
+          "date": "2026-10-21",
+          "rs_ratio": 97.72,
+          "rs_momentum": 98.16
+        },
+        {
+          "date": "2026-10-22",
+          "rs_ratio": 97.99,
+          "rs_momentum": 100.33
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 97.67,
+          "rs_momentum": 99.73
+        },
+        {
+          "date": "2026-10-26",
+          "rs_ratio": 97.39,
+          "rs_momentum": 99.77
+        },
+        {
+          "date": "2026-10-27",
+          "rs_ratio": 97.78,
+          "rs_momentum": 100.51
+        },
+        {
+          "date": "2026-10-28",
+          "rs_ratio": 98.03,
+          "rs_momentum": 100.41
+        },
+        {
+          "date": "2026-10-29",
+          "rs_ratio": 98.05,
+          "rs_momentum": 100.05
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 98.5,
+          "rs_momentum": 100.65
+        },
+        {
+          "date": "2026-11-02",
+          "rs_ratio": 98.9,
+          "rs_momentum": 100.64
         }
       ]
     },
