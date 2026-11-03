@@ -37,10 +37,26 @@ def get_quadrant(rs_ratio, rs_momentum):
     return "Improving"
 
 def score_sector(quadrant, rs_momentum, avg_rsl):
-    base = {"Leading": 40, "Improving": 30, "Weakening": 10, "Lagging": 0}.get(quadrant, 0)
-    mom_score = max(0, min(30, (rs_momentum - 98) * 3))  # grob 0–30
-    rsl_score = max(0, min(30, (avg_rsl - 50) * 0.6))   # grob 0–30
+    # Quadrant-Basis
+    base = {
+        "Leading": 45,
+        "Improving": 30,
+        "Weakening": 15,
+        "Lagging": 0
+    }.get(quadrant, 0)
+
+    # Momentum-Bonus (RS-Momentum um 100)
+    mom_score = max(0, min(25, (rs_momentum - 99.5) * 5))
+
+    # RSL-Bonus (deine Werte liegen um 1.0)
+    # 1.0 = neutral, >1.05 = gut, >1.15 = sehr gut
+    if avg_rsl is None:
+        rsl_score = 0
+    else:
+        rsl_score = max(0, min(30, (avg_rsl - 0.98) * 150))
+        
     return round(base + mom_score + rsl_score)
+
 
 def main():
     # RRG lokal (wurde gerade geschrieben)
@@ -80,11 +96,12 @@ def main():
 
         c = rrg_data["current"]
         quadrant = get_quadrant(c["rs_ratio"], c["rs_momentum"])
-        score = score_sector(quadrant, c["rs_momentum"], avg_rsl or 50)
 
-        if score >= 70:
+        score = score_sector(quadrant, c["rs_momentum"], avg_rsl)
+
+        if score >= 75:
             einschätzung = "Übergewichten"
-        elif score >= 50:
+        elif score >= 55:
             einschätzung = "Neutral / Watch"
         else:
             einschätzung = "Untergewichten"
