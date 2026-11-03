@@ -26,6 +26,9 @@ jobs:
       - name: Run RRG updater
         run: python scripts/update_rrg.py
 
+      - name: Run Trend updater
+        run: python scripts/update_trend.py
+
       - name: Verify files
         run: |
           echo "Dateien nach dem Skript:"
