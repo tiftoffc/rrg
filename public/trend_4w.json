@@ -1,0 +1,256 @@
+{
+  "updated": "2026-11-03 14:34 UTC",
+  "sectors": [
+    {
+      "sector": "Industrials",
+      "ticker": "XLI",
+      "quadrant": "Leading",
+      "rs_ratio": 100.09,
+      "rs_momentum": 101.61,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "ALLE",
+          "rsl": 1.3
+        },
+        {
+          "ticker": "VLTO",
+          "rsl": 1.24
+        },
+        {
+          "ticker": "SWK",
+          "rsl": 1.2
+        }
+      ],
+      "score": 51,
+      "einsch\u00e4tzung": "Neutral / Watch"
+    },
+    {
+      "sector": "Financials",
+      "ticker": "XLF",
+      "quadrant": "Leading",
+      "rs_ratio": 101.21,
+      "rs_momentum": 100.85,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "FDS",
+          "rsl": 1.3
+        },
+        {
+          "ticker": "GPN",
+          "rsl": 1.25
+        },
+        {
+          "ticker": "MA",
+          "rsl": 1.2
+        }
+      ],
+      "score": 49,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "ticker": "XLY",
+      "quadrant": "Leading",
+      "rs_ratio": 101.56,
+      "rs_momentum": 101.14,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "HAS",
+          "rsl": 1.3
+        },
+        {
+          "ticker": "ULTA",
+          "rsl": 1.22
+        },
+        {
+          "ticker": "BBY",
+          "rsl": 1.2
+        }
+      ],
+      "score": 49,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Real Estate",
+      "ticker": "XLRE",
+      "quadrant": "Leading",
+      "rs_ratio": 100.83,
+      "rs_momentum": 100.69,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "HST",
+          "rsl": 1.12
+        },
+        {
+          "ticker": "EXR",
+          "rsl": 1.1
+        },
+        {
+          "ticker": "CCI",
+          "rsl": 1.1
+        }
+      ],
+      "score": 48,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Utilities",
+      "ticker": "XLU",
+      "quadrant": "Leading",
+      "rs_ratio": 101.35,
+      "rs_momentum": 100.12,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "AWK",
+          "rsl": 1.12
+        },
+        {
+          "ticker": "ED",
+          "rsl": 1.1
+        },
+        {
+          "ticker": "WEC",
+          "rsl": 1.07
+        }
+      ],
+      "score": 46,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Communication Services",
+      "ticker": "XLC",
+      "quadrant": "Improving",
+      "rs_ratio": 97.95,
+      "rs_momentum": 100.95,
+      "avg_rsl": 0.9,
+      "top_tickers": [
+        {
+          "ticker": "DIS",
+          "rsl": 1.1
+        },
+        {
+          "ticker": "OMC",
+          "rsl": 1.08
+        },
+        {
+          "ticker": "NWSA",
+          "rsl": 1.06
+        }
+      ],
+      "score": 39,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Materials",
+      "ticker": "XLB",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.52,
+      "rs_momentum": 99.9,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "IFF",
+          "rsl": 1.17
+        },
+        {
+          "ticker": "AMCR",
+          "rsl": 1.16
+        },
+        {
+          "ticker": "BALL",
+          "rsl": 1.13
+        }
+      ],
+      "score": 16,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Consumer Staples",
+      "ticker": "XLP",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.89,
+      "rs_momentum": 99.7,
+      "avg_rsl": 1.1,
+      "top_tickers": [
+        {
+          "ticker": "KDP",
+          "rsl": 1.19
+        },
+        {
+          "ticker": "DLTR",
+          "rsl": 1.18
+        },
+        {
+          "ticker": "EL",
+          "rsl": 1.16
+        }
+      ],
+      "score": 15,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Health Care",
+      "ticker": "XLV",
+      "quadrant": "Weakening",
+      "rs_ratio": 102.01,
+      "rs_momentum": 99.37,
+      "avg_rsl": 1.1,
+      "top_tickers": [
+        {
+          "ticker": "MRNA",
+          "rsl": 2.05
+        },
+        {
+          "ticker": "CRL",
+          "rsl": 1.38
+        },
+        {
+          "ticker": "VEEV",
+          "rsl": 1.37
+        }
+      ],
+      "score": 14,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Energy",
+      "ticker": "XLE",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.02,
+      "rs_momentum": 98.9,
+      "avg_rsl": 1.1,
+      "top_tickers": [
+        {
+          "ticker": "MPC",
+          "rsl": 1.29
+        },
+        {
+          "ticker": "PSX",
+          "rsl": 1.25
+        },
+        {
+          "ticker": "APA",
+          "rsl": 1.22
+        }
+      ],
+      "score": 13,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Technology",
+      "ticker": "XLK",
+      "quadrant": "Lagging",
+      "rs_ratio": 98.33,
+      "rs_momentum": 99.36,
+      "avg_rsl": null,
+      "top_tickers": [],
+      "score": 4,
+      "einsch\u00e4tzung": "Untergewichten"
+    }
+  ]
+}
