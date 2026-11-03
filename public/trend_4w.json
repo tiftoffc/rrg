@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-03 14:34 UTC",
+  "updated": "2026-11-03 14:36 UTC",
   "sectors": [
     {
       "sector": "Industrials",
       "ticker": "XLI",
       "quadrant": "Leading",
-      "rs_ratio": 100.09,
-      "rs_momentum": 101.61,
+      "rs_ratio": 100.11,
+      "rs_momentum": 101.63,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -26,35 +26,11 @@
       "einsch\u00e4tzung": "Neutral / Watch"
     },
     {
-      "sector": "Financials",
-      "ticker": "XLF",
-      "quadrant": "Leading",
-      "rs_ratio": 101.21,
-      "rs_momentum": 100.85,
-      "avg_rsl": 1.0,
-      "top_tickers": [
-        {
-          "ticker": "FDS",
-          "rsl": 1.3
-        },
-        {
-          "ticker": "GPN",
-          "rsl": 1.25
-        },
-        {
-          "ticker": "MA",
-          "rsl": 1.2
-        }
-      ],
-      "score": 49,
-      "einsch\u00e4tzung": "Untergewichten"
-    },
-    {
       "sector": "Consumer Discretionary",
       "ticker": "XLY",
       "quadrant": "Leading",
-      "rs_ratio": 101.56,
-      "rs_momentum": 101.14,
+      "rs_ratio": 101.52,
+      "rs_momentum": 101.08,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -74,11 +50,35 @@
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
+      "sector": "Financials",
+      "ticker": "XLF",
+      "quadrant": "Leading",
+      "rs_ratio": 101.18,
+      "rs_momentum": 100.82,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "FDS",
+          "rsl": 1.3
+        },
+        {
+          "ticker": "GPN",
+          "rsl": 1.25
+        },
+        {
+          "ticker": "MA",
+          "rsl": 1.2
+        }
+      ],
+      "score": 48,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
       "sector": "Real Estate",
       "ticker": "XLRE",
       "quadrant": "Leading",
-      "rs_ratio": 100.83,
-      "rs_momentum": 100.69,
+      "rs_ratio": 100.78,
+      "rs_momentum": 100.61,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -101,8 +101,8 @@
       "sector": "Utilities",
       "ticker": "XLU",
       "quadrant": "Leading",
-      "rs_ratio": 101.35,
-      "rs_momentum": 100.12,
+      "rs_ratio": 101.33,
+      "rs_momentum": 100.08,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -125,8 +125,8 @@
       "sector": "Communication Services",
       "ticker": "XLC",
       "quadrant": "Improving",
-      "rs_ratio": 97.95,
-      "rs_momentum": 100.95,
+      "rs_ratio": 97.93,
+      "rs_momentum": 100.94,
       "avg_rsl": 0.9,
       "top_tickers": [
         {
@@ -149,8 +149,8 @@
       "sector": "Materials",
       "ticker": "XLB",
       "quadrant": "Weakening",
-      "rs_ratio": 101.52,
-      "rs_momentum": 99.9,
+      "rs_ratio": 101.51,
+      "rs_momentum": 99.89,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -173,7 +173,7 @@
       "sector": "Consumer Staples",
       "ticker": "XLP",
       "quadrant": "Weakening",
-      "rs_ratio": 101.89,
+      "rs_ratio": 101.88,
       "rs_momentum": 99.7,
       "avg_rsl": 1.1,
       "top_tickers": [
@@ -197,7 +197,7 @@
       "sector": "Health Care",
       "ticker": "XLV",
       "quadrant": "Weakening",
-      "rs_ratio": 102.01,
+      "rs_ratio": 102.02,
       "rs_momentum": 99.37,
       "avg_rsl": 1.1,
       "top_tickers": [
@@ -221,8 +221,8 @@
       "sector": "Energy",
       "ticker": "XLE",
       "quadrant": "Weakening",
-      "rs_ratio": 101.02,
-      "rs_momentum": 98.9,
+      "rs_ratio": 101.08,
+      "rs_momentum": 98.96,
       "avg_rsl": 1.1,
       "top_tickers": [
         {
@@ -245,8 +245,8 @@
       "sector": "Technology",
       "ticker": "XLK",
       "quadrant": "Lagging",
-      "rs_ratio": 98.33,
-      "rs_momentum": 99.36,
+      "rs_ratio": 98.35,
+      "rs_momentum": 99.39,
       "avg_rsl": null,
       "top_tickers": [],
       "score": 4,
