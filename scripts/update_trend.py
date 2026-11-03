@@ -4,6 +4,7 @@ Erzeugt trend_4w.json aus RRG-Weekly + RSL-26W
 """
 
 import json
+import urllib.request
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime, timezone
