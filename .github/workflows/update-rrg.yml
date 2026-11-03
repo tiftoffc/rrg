@@ -26,6 +26,15 @@ jobs:
       - name: Run RRG updater
         run: python scripts/update_rrg.py
 
+      - name: Show written files
+        run: |
+          echo "=== Inhalt von public/ ==="
+          ls -la public/
+          echo "=== Existiert rrg-weekly.json? ==="
+          ls -la public/rrg-weekly.json || echo "Datei nicht gefunden"
+          echo "=== Erste Zeilen ==="
+          head -n 20 public/rrg-weekly.json || true
+
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
