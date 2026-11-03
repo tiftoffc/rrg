@@ -1,0 +1,776 @@
+{
+  "updated": "2026-11-03 12:49 UTC",
+  "timeframe": "weekly",
+  "sectors": [
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "current": {
+        "rs_ratio": 98.18,
+        "rs_momentum": 99.2
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.19,
+          "rs_momentum": 98.57
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 99.53,
+          "rs_momentum": 100.99
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 99.95,
+          "rs_momentum": 101.06
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 100.38,
+          "rs_momentum": 100.94
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 100.92,
+          "rs_momentum": 101.03
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 102.16,
+          "rs_momentum": 101.85
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 102.38,
+          "rs_momentum": 100.18
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 101.44,
+          "rs_momentum": 98.49
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.37,
+          "rs_momentum": 97.7
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 99.4,
+          "rs_momentum": 100.05
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 98.9,
+          "rs_momentum": 99.44
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 98.18,
+          "rs_momentum": 99.2
+        }
+      ]
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "current": {
+        "rs_ratio": 101.42,
+        "rs_momentum": 101.08
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 100.71,
+          "rs_momentum": 99.5
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 100.78,
+          "rs_momentum": 99.8
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 100.69,
+          "rs_momentum": 99.48
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 100.25,
+          "rs_momentum": 98.88
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 98.81,
+          "rs_momentum": 97.63
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 97.37,
+          "rs_momentum": 98.1
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 97.4,
+          "rs_momentum": 100.44
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.25,
+          "rs_momentum": 101.69
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.46,
+          "rs_momentum": 101.8
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 99.91,
+          "rs_momentum": 100.81
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 100.57,
+          "rs_momentum": 100.99
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.42,
+          "rs_momentum": 101.08
+        }
+      ]
+    },
+    {
+      "ticker": "XLV",
+      "name": "Health Care",
+      "current": {
+        "rs_ratio": 102.01,
+        "rs_momentum": 99.36
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 101.76,
+          "rs_momentum": 101.27
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 100.99,
+          "rs_momentum": 98.78
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 100.92,
+          "rs_momentum": 99.71
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 99.96,
+          "rs_momentum": 98.75
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 100.46,
+          "rs_momentum": 100.58
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 100.63,
+          "rs_momentum": 100.09
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 99.3,
+          "rs_momentum": 98.1
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 100.2,
+          "rs_momentum": 101.46
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 102.44,
+          "rs_momentum": 102.38
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 102.37,
+          "rs_momentum": 99.83
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 102.51,
+          "rs_momentum": 100.07
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 102.01,
+          "rs_momentum": 99.36
+        }
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "current": {
+        "rs_ratio": 101.08,
+        "rs_momentum": 98.96
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 101.82,
+          "rs_momentum": 100.73
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 101.26,
+          "rs_momentum": 99.2
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 101.45,
+          "rs_momentum": 99.98
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 101.64,
+          "rs_momentum": 100.02
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 101.22,
+          "rs_momentum": 99.33
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 100.36,
+          "rs_momentum": 98.85
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 100.53,
+          "rs_momentum": 100.08
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 100.94,
+          "rs_momentum": 100.28
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 102.25,
+          "rs_momentum": 101.21
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 102.13,
+          "rs_momentum": 99.7
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 101.93,
+          "rs_momentum": 99.69
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.08,
+          "rs_momentum": 98.96
+        }
+      ]
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "current": {
+        "rs_ratio": 99.96,
+        "rs_momentum": 101.4
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.23,
+          "rs_momentum": 98.41
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 98.32,
+          "rs_momentum": 98.62
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 97.92,
+          "rs_momentum": 99.46
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.04,
+          "rs_momentum": 100.33
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 98.08,
+          "rs_momentum": 100.22
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 98.31,
+          "rs_momentum": 100.6
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 98.53,
+          "rs_momentum": 100.75
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.43,
+          "rs_momentum": 100.13
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 98.86,
+          "rs_momentum": 100.99
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 98.73,
+          "rs_momentum": 99.98
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 99.34,
+          "rs_momentum": 101.53
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 99.96,
+          "rs_momentum": 101.4
+        }
+      ]
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "current": {
+        "rs_ratio": 97.94,
+        "rs_momentum": 100.94
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.31,
+          "rs_momentum": 99.98
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 99.87,
+          "rs_momentum": 101.47
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 99.44,
+          "rs_momentum": 98.45
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 100.52,
+          "rs_momentum": 102.21
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 99.37,
+          "rs_momentum": 97.74
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 100.37,
+          "rs_momentum": 101.48
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 98.45,
+          "rs_momentum": 97.56
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.02,
+          "rs_momentum": 99.51
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.64,
+          "rs_momentum": 101.78
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 97.3,
+          "rs_momentum": 97.98
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 96.98,
+          "rs_momentum": 99.8
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 97.94,
+          "rs_momentum": 100.94
+        }
+      ]
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "current": {
+        "rs_ratio": 101.75,
+        "rs_momentum": 101.41
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.47,
+          "rs_momentum": 100.8
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 98.99,
+          "rs_momentum": 99.26
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 98.15,
+          "rs_momentum": 98.91
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.14,
+          "rs_momentum": 99.97
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 97.97,
+          "rs_momentum": 99.82
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 97.98,
+          "rs_momentum": 100.08
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 98.27,
+          "rs_momentum": 100.47
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.86,
+          "rs_momentum": 100.83
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.49,
+          "rs_momentum": 100.78
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 99.93,
+          "rs_momentum": 100.49
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 100.78,
+          "rs_momentum": 100.92
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.75,
+          "rs_momentum": 101.41
+        }
+      ]
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "current": {
+        "rs_ratio": 102.12,
+        "rs_momentum": 99.92
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.78,
+          "rs_momentum": 100.84
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 99.25,
+          "rs_momentum": 99.3
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 98.56,
+          "rs_momentum": 99.14
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.48,
+          "rs_momentum": 99.94
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 98.44,
+          "rs_momentum": 100.06
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 98.14,
+          "rs_momentum": 99.67
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 97.9,
+          "rs_momentum": 99.88
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.98,
+          "rs_momentum": 101.46
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 101.56,
+          "rs_momentum": 102.38
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 101.82,
+          "rs_momentum": 100.16
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 102.05,
+          "rs_momentum": 100.08
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 102.12,
+          "rs_momentum": 99.92
+        }
+      ]
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "current": {
+        "rs_ratio": 101.79,
+        "rs_momentum": 100.18
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 101.08,
+          "rs_momentum": 102.25
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 100.28,
+          "rs_momentum": 98.8
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 99.26,
+          "rs_momentum": 98.72
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.26,
+          "rs_momentum": 98.9
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 97.87,
+          "rs_momentum": 99.67
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 97.95,
+          "rs_momentum": 100.2
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 97.84,
+          "rs_momentum": 100.03
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.23,
+          "rs_momentum": 100.58
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.89,
+          "rs_momentum": 101.71
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 100.31,
+          "rs_momentum": 100.35
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 101.42,
+          "rs_momentum": 101.04
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.79,
+          "rs_momentum": 100.18
+        }
+      ]
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "current": {
+        "rs_ratio": 101.04,
+        "rs_momentum": 101.01
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 99.38,
+          "rs_momentum": 100.16
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 98.77,
+          "rs_momentum": 99.44
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 98.37,
+          "rs_momentum": 99.61
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.52,
+          "rs_momentum": 100.2
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 98.26,
+          "rs_momentum": 99.86
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 98.0,
+          "rs_momentum": 99.78
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 98.05,
+          "rs_momentum": 100.31
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 98.51,
+          "rs_momentum": 100.72
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.31,
+          "rs_momentum": 101.01
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 99.72,
+          "rs_momentum": 100.73
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 100.39,
+          "rs_momentum": 101.17
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.04,
+          "rs_momentum": 101.01
+        }
+      ]
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "current": {
+        "rs_ratio": 101.54,
+        "rs_momentum": 100.41
+      },
+      "tail": [
+        {
+          "date": "2026-08-21",
+          "rs_ratio": 98.18,
+          "rs_momentum": 99.62
+        },
+        {
+          "date": "2026-08-28",
+          "rs_ratio": 98.38,
+          "rs_momentum": 100.28
+        },
+        {
+          "date": "2026-09-04",
+          "rs_ratio": 98.71,
+          "rs_momentum": 100.4
+        },
+        {
+          "date": "2026-09-11",
+          "rs_ratio": 98.73,
+          "rs_momentum": 100.03
+        },
+        {
+          "date": "2026-09-18",
+          "rs_ratio": 98.44,
+          "rs_momentum": 99.66
+        },
+        {
+          "date": "2026-09-25",
+          "rs_ratio": 98.13,
+          "rs_momentum": 99.68
+        },
+        {
+          "date": "2026-10-02",
+          "rs_ratio": 98.5,
+          "rs_momentum": 100.66
+        },
+        {
+          "date": "2026-10-09",
+          "rs_ratio": 99.07,
+          "rs_momentum": 100.84
+        },
+        {
+          "date": "2026-10-16",
+          "rs_ratio": 99.83,
+          "rs_momentum": 100.96
+        },
+        {
+          "date": "2026-10-23",
+          "rs_ratio": 100.18,
+          "rs_momentum": 100.42
+        },
+        {
+          "date": "2026-10-30",
+          "rs_ratio": 101.12,
+          "rs_momentum": 101.22
+        },
+        {
+          "date": "2026-11-06",
+          "rs_ratio": 101.54,
+          "rs_momentum": 100.41
+        }
+      ]
+    }
+  ]
+}
