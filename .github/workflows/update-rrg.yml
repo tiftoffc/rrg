@@ -2,7 +2,6 @@ name: Update RRG Data
 
 on:
   schedule:
-    # Mo–Fr um 21:30 UTC (nach US-Börsenschluss)
     - cron: '30 21 * * 1-5'
   workflow_dispatch:
 
@@ -35,3 +34,4 @@ jobs:
             public/rrg-daily.json
             public/rrg-weekly.json
             public/last_update.json
+            public/rrg-data.json
