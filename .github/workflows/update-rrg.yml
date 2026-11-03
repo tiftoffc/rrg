@@ -29,6 +29,15 @@ jobs:
       - name: Run Trend updater
         run: python scripts/update_trend.py
 
+      - name: Run Trend updater
+        run: python scripts/update_trend.py
+
+      - name: Check trend file
+        run: |
+          ls -la public/
+          echo "---"
+          head -n 30 public/trend_4w.json || echo "trend_4w.json nicht gefunden" 
+
       - name: Verify files
         run: |
           echo "Dateien nach dem Skript:"
