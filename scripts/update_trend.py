@@ -42,10 +42,14 @@ def score_sector(quadrant, rs_momentum, avg_rsl):
     return round(base + mom_score + rsl_score)
 
 def main():
-    # Daten laden
+    # RRG lokal (wurde gerade geschrieben)
     rrg = json.loads((OUTPUT_DIR / "rrg-weekly.json").read_text())
-    rsl = json.loads(Path("rsl_26w.json").read_text()) if Path("rsl_26w.json").exists() else []
-    # Falls RSL woanders liegt, Pfad anpassen oder per URL laden
+
+    # RSL von der bestehenden RSL-Seite holen
+    rsl_url = "https://raw.githubusercontent.com/tiftoffc/rsl-sp500/main/rsl_26w.json"
+    print(f"Lade RSL von {rsl_url}")
+    with urllib.request.urlopen(rsl_url) as resp:
+        rsl = json.loads(resp.read().decode())
 
     # RSL nach Sektor gruppieren
     by_sector = defaultdict(list)
