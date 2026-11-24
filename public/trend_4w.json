@@ -1,132 +1,71 @@
 {
-  "updated": "2026-11-21 02:44 UTC",
+  "updated": "2026-11-24 05:28 UTC",
   "sectors": [
     {
-      "sector": "Industrials",
-      "ticker": "XLI",
-      "quadrant": "Leading",
-      "rs_ratio": 100.64,
-      "rs_momentum": 101.48,
-      "avg_rsl": 1.0,
-      "top_tickers": [
-        {
-          "ticker": "VLTO",
-          "rsl": 1.23
-        },
-        {
-          "ticker": "ALLE",
-          "rsl": 1.23
-        },
-        {
-          "ticker": "SWK",
-          "rsl": 1.16
-        }
-      ],
-      "score": 58,
-      "einsch\u00e4tzung": "Neutral / Watch"
-    },
-    {
-      "sector": "Utilities",
-      "ticker": "XLU",
-      "quadrant": "Leading",
-      "rs_ratio": 102.28,
-      "rs_momentum": 101.29,
-      "avg_rsl": 1.0,
-      "top_tickers": [
-        {
-          "ticker": "AWK",
-          "rsl": 1.11
-        },
-        {
-          "ticker": "ED",
-          "rsl": 1.1
-        },
-        {
-          "ticker": "WEC",
-          "rsl": 1.06
-        }
-      ],
-      "score": 57,
-      "einsch\u00e4tzung": "Neutral / Watch"
-    },
-    {
-      "sector": "Real Estate",
-      "ticker": "XLRE",
-      "quadrant": "Leading",
-      "rs_ratio": 102.06,
+      "sector": "Technology",
+      "ticker": "XLK",
+      "quadrant": "Improving",
+      "rs_ratio": 98.8,
       "rs_momentum": 101.08,
-      "avg_rsl": 1.0,
-      "top_tickers": [
-        {
-          "ticker": "EXR",
-          "rsl": 1.09
-        },
-        {
-          "ticker": "WELL",
-          "rsl": 1.06
-        },
-        {
-          "ticker": "PSA",
-          "rsl": 1.05
-        }
-      ],
-      "score": 56,
-      "einsch\u00e4tzung": "Neutral / Watch"
+      "avg_rsl": null,
+      "top_tickers": [],
+      "score": 38,
+      "einsch\u00e4tzung": "Untergewichten"
     },
     {
-      "sector": "Energy",
-      "ticker": "XLE",
-      "quadrant": "Leading",
-      "rs_ratio": 100.7,
-      "rs_momentum": 100.44,
-      "avg_rsl": 1.0,
+      "sector": "Health Care",
+      "ticker": "XLV",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.1,
+      "rs_momentum": 99.15,
+      "avg_rsl": 1.1,
       "top_tickers": [
         {
-          "ticker": "APA",
-          "rsl": 1.09
+          "ticker": "MRNA",
+          "rsl": 1.53
         },
         {
-          "ticker": "PSX",
-          "rsl": 1.08
+          "ticker": "REGN",
+          "rsl": 1.23
         },
         {
-          "ticker": "COP",
-          "rsl": 1.08
+          "ticker": "BDX",
+          "rsl": 1.22
         }
       ],
-      "score": 53,
+      "score": 33,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
       "sector": "Consumer Staples",
       "ticker": "XLP",
-      "quadrant": "Leading",
-      "rs_ratio": 102.37,
-      "rs_momentum": 100.35,
-      "avg_rsl": 1.0,
+      "quadrant": "Weakening",
+      "rs_ratio": 101.33,
+      "rs_momentum": 98.69,
+      "avg_rsl": 1.1,
       "top_tickers": [
         {
-          "ticker": "DLTR",
-          "rsl": 1.15
-        },
-        {
-          "ticker": "TGT",
+          "ticker": "TSN",
           "rsl": 1.15
         },
         {
           "ticker": "COST",
-          "rsl": 1.13
+          "rsl": 1.14
+        },
+        {
+          "ticker": "TGT",
+          "rsl": 1.14
         }
       ],
-      "score": 52,
+      "score": 33,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
       "sector": "Financials",
       "ticker": "XLF",
-      "quadrant": "Leading",
-      "rs_ratio": 101.76,
-      "rs_momentum": 100.13,
+      "quadrant": "Weakening",
+      "rs_ratio": 100.92,
+      "rs_momentum": 98.99,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
@@ -134,7 +73,7 @@
           "rsl": 1.2
         },
         {
-          "ticker": "AIZ",
+          "ticker": "MRSH",
           "rsl": 1.14
         },
         {
@@ -142,114 +81,175 @@
           "rsl": 1.14
         }
       ],
-      "score": 51,
+      "score": 18,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
       "sector": "Consumer Discretionary",
       "ticker": "XLY",
-      "quadrant": "Leading",
-      "rs_ratio": 102.0,
-      "rs_momentum": 100.01,
+      "quadrant": "Weakening",
+      "rs_ratio": 101.57,
+      "rs_momentum": 99.01,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
           "ticker": "HAS",
-          "rsl": 1.23
+          "rsl": 1.2
         },
         {
           "ticker": "TSCO",
-          "rsl": 1.19
+          "rsl": 1.17
         },
         {
-          "ticker": "ULTA",
-          "rsl": 1.17
+          "ticker": "BBY",
+          "rsl": 1.15
         }
       ],
-      "score": 51,
+      "score": 18,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
-      "sector": "Materials",
-      "ticker": "XLB",
-      "quadrant": "Leading",
-      "rs_ratio": 101.11,
-      "rs_momentum": 100.1,
+      "sector": "Real Estate",
+      "ticker": "XLRE",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.09,
+      "rs_momentum": 98.36,
       "avg_rsl": 1.0,
       "top_tickers": [
         {
-          "ticker": "AVY",
+          "ticker": "EXR",
           "rsl": 1.08
         },
         {
-          "ticker": "ECL",
-          "rsl": 1.07
+          "ticker": "KIM",
+          "rsl": 1.05
         },
         {
-          "ticker": "PPG",
+          "ticker": "PSA",
           "rsl": 1.05
         }
       ],
-      "score": 51,
+      "score": 18,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Utilities",
+      "ticker": "XLU",
+      "quadrant": "Weakening",
+      "rs_ratio": 101.36,
+      "rs_momentum": 97.8,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "AWK",
+          "rsl": 1.12
+        },
+        {
+          "ticker": "ED",
+          "rsl": 1.1
+        },
+        {
+          "ticker": "WEC",
+          "rsl": 1.07
+        }
+      ],
+      "score": 18,
+      "einsch\u00e4tzung": "Untergewichten"
+    },
+    {
+      "sector": "Industrials",
+      "ticker": "XLI",
+      "quadrant": "Weakening",
+      "rs_ratio": 100.58,
+      "rs_momentum": 99.61,
+      "avg_rsl": 0.9,
+      "top_tickers": [
+        {
+          "ticker": "VLTO",
+          "rsl": 1.21
+        },
+        {
+          "ticker": "ALLE",
+          "rsl": 1.19
+        },
+        {
+          "ticker": "ADP",
+          "rsl": 1.15
+        }
+      ],
+      "score": 16,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
       "sector": "Communication Services",
       "ticker": "XLC",
-      "quadrant": "Leading",
-      "rs_ratio": 100.41,
-      "rs_momentum": 100.12,
+      "quadrant": "Weakening",
+      "rs_ratio": 100.03,
+      "rs_momentum": 99.67,
       "avg_rsl": 0.9,
       "top_tickers": [
         {
           "ticker": "DIS",
-          "rsl": 1.15
+          "rsl": 1.13
         },
         {
           "ticker": "OMC",
-          "rsl": 1.08
+          "rsl": 1.07
         },
         {
           "ticker": "CMCSA",
           "rsl": 1.05
         }
       ],
-      "score": 48,
+      "score": 16,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
-      "sector": "Health Care",
-      "ticker": "XLV",
+      "sector": "Materials",
+      "ticker": "XLB",
       "quadrant": "Weakening",
-      "rs_ratio": 101.88,
-      "rs_momentum": 99.97,
-      "avg_rsl": 1.1,
+      "rs_ratio": 100.73,
+      "rs_momentum": 99.53,
+      "avg_rsl": 0.9,
       "top_tickers": [
         {
-          "ticker": "MRNA",
-          "rsl": 1.57
+          "ticker": "AVY",
+          "rsl": 1.07
         },
         {
-          "ticker": "CRL",
-          "rsl": 1.25
+          "ticker": "ECL",
+          "rsl": 1.06
         },
         {
-          "ticker": "REGN",
-          "rsl": 1.23
+          "ticker": "BALL",
+          "rsl": 1.04
         }
       ],
-      "score": 35,
+      "score": 15,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
-      "sector": "Technology",
-      "ticker": "XLK",
+      "sector": "Energy",
+      "ticker": "XLE",
       "quadrant": "Lagging",
-      "rs_ratio": 97.9,
-      "rs_momentum": 99.81,
-      "avg_rsl": null,
-      "top_tickers": [],
-      "score": 2,
+      "rs_ratio": 99.37,
+      "rs_momentum": 98.51,
+      "avg_rsl": 1.0,
+      "top_tickers": [
+        {
+          "ticker": "APA",
+          "rsl": 1.1
+        },
+        {
+          "ticker": "COP",
+          "rsl": 1.09
+        },
+        {
+          "ticker": "CVX",
+          "rsl": 1.06
+        }
+      ],
+      "score": 3,
       "einsch\u00e4tzung": "Untergewichten"
     }
   ]
