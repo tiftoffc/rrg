@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 03:43 UTC",
+  "updated": "2026-11-27 03:44 UTC",
   "sectors": [
     {
       "sector": "Industrials",
@@ -11,15 +11,15 @@
       "top_tickers": [
         {
           "ticker": "VLTO",
-          "rsl": 1.23
+          "rsl": 1.24
         },
         {
           "ticker": "ALLE",
-          "rsl": 1.23
+          "rsl": 1.24
         },
         {
           "ticker": "ADP",
-          "rsl": 1.18
+          "rsl": 1.2
         }
       ],
       "score": 55,
@@ -35,7 +35,7 @@
       "top_tickers": [
         {
           "ticker": "AVY",
-          "rsl": 1.1
+          "rsl": 1.12
         },
         {
           "ticker": "ECL",
@@ -43,7 +43,7 @@
         },
         {
           "ticker": "PPG",
-          "rsl": 1.07
+          "rsl": 1.1
         }
       ],
       "score": 53,
@@ -55,22 +55,22 @@
       "quadrant": "Leading",
       "rs_ratio": 100.9,
       "rs_momentum": 100.27,
-      "avg_rsl": 0.9,
+      "avg_rsl": 1.0,
       "top_tickers": [
         {
           "ticker": "DIS",
-          "rsl": 1.17
+          "rsl": 1.19
         },
         {
           "ticker": "OMC",
-          "rsl": 1.12
+          "rsl": 1.13
         },
         {
-          "ticker": "CMCSA",
-          "rsl": 1.07
+          "ticker": "CHTR",
+          "rsl": 1.11
         }
       ],
-      "score": 49,
+      "score": 52,
       "einsch\u00e4tzung": "Untergewichten"
     },
     {
@@ -94,14 +94,14 @@
       "top_tickers": [
         {
           "ticker": "MRNA",
-          "rsl": 1.75
+          "rsl": 1.68
         },
         {
           "ticker": "REGN",
-          "rsl": 1.31
+          "rsl": 1.3
         },
         {
-          "ticker": "CRL",
+          "ticker": "BDX",
           "rsl": 1.26
         }
       ],
@@ -118,15 +118,15 @@
       "top_tickers": [
         {
           "ticker": "DLTR",
-          "rsl": 1.25
+          "rsl": 1.23
+        },
+        {
+          "ticker": "CLX",
+          "rsl": 1.19
         },
         {
           "ticker": "TGT",
-          "rsl": 1.2
-        },
-        {
-          "ticker": "COST",
-          "rsl": 1.16
+          "rsl": 1.17
         }
       ],
       "score": 33,
@@ -141,16 +141,16 @@
       "avg_rsl": 1.0,
       "top_tickers": [
         {
-          "ticker": "CBOE",
-          "rsl": 1.22
+          "ticker": "JKHY",
+          "rsl": 1.19
         },
         {
           "ticker": "MRSH",
-          "rsl": 1.18
+          "rsl": 1.19
         },
         {
           "ticker": "AJG",
-          "rsl": 1.17
+          "rsl": 1.18
         }
       ],
       "score": 18,
@@ -166,11 +166,11 @@
       "top_tickers": [
         {
           "ticker": "TSCO",
-          "rsl": 1.21
+          "rsl": 1.23
         },
         {
-          "ticker": "HAS",
-          "rsl": 1.2
+          "ticker": "BBY",
+          "rsl": 1.19
         },
         {
           "ticker": "ULTA",
@@ -190,15 +190,15 @@
       "top_tickers": [
         {
           "ticker": "EXR",
-          "rsl": 1.1
+          "rsl": 1.12
+        },
+        {
+          "ticker": "CSGP",
+          "rsl": 1.11
         },
         {
           "ticker": "SPG",
-          "rsl": 1.07
-        },
-        {
-          "ticker": "KIM",
-          "rsl": 1.07
+          "rsl": 1.09
         }
       ],
       "score": 18,
@@ -214,15 +214,15 @@
       "top_tickers": [
         {
           "ticker": "AWK",
-          "rsl": 1.12
+          "rsl": 1.14
         },
         {
           "ticker": "ED",
-          "rsl": 1.1
+          "rsl": 1.11
         },
         {
           "ticker": "WEC",
-          "rsl": 1.08
+          "rsl": 1.09
         }
       ],
       "score": 18,
@@ -238,15 +238,15 @@
       "top_tickers": [
         {
           "ticker": "APA",
-          "rsl": 1.1
+          "rsl": 1.11
         },
         {
           "ticker": "COP",
-          "rsl": 1.07
+          "rsl": 1.08
         },
         {
           "ticker": "CVX",
-          "rsl": 1.06
+          "rsl": 1.07
         }
       ],
       "score": 3,
